@@ -4,7 +4,7 @@ Hi there 👋 I'm Abubakar (Don)
 Full Stack Developer and Researcher
 ------------------------
 # 💫 About Me:
-👋 Hi My name is Abubakar O. A. Semasaba (Don)<br><b> - Developer Portfolio:</b> https://react-developer-portfolio-nextjs.vercel.app/ <br><br> 🔭 Full Stack Web Developer (more on the back-end) and researcher<br>🌍 I'm based in Xi'an, Shaanxi, China<br>✉️ You can contact me at abubakar.semasaba@hotmail.com<br>🌱 I’m currently learning Python's APIs and Integrations with React.<br>🌱 Currently working on enhancing my development and management skills.<br>🌱 Working on Front-end and Back-end projects.
+👋 Hi My name is Donnie (Don)<br><b> - Developer Portfolio:</b> https://react-developer-portfolio-nextjs.vercel.app/ <br><br> 🔭 Full Stack Web Developer (more on the back-end) and researcher<br>🌍 I'm based in China<br>✉️ You can contact me at abubakar.semasaba@hotmail.com<br>🌱 I’m currently learning Python's APIs, AI and Neural Networks and Integrations with React.<br>🌱 Currently working on enhancing my development and management skills.<br>🌱 Working on Front-end and Back-end projects.
 
 ## 🌐 Socials:
 <p align="left"> <a href="https://github.com/donsemz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
